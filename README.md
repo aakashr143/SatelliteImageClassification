@@ -1,3 +1,5 @@
+[Demo](https://www.aakashrathee.com/satelliteimageclassification)
+
 # Links
 - [Dataset](https://satellite-image-classification.s3.eu-central-1.amazonaws.com/LandUseImagesDataset.zip) 5.1GB
 - [Best Model of each configuration](https://satellite-image-classification.s3.eu-central-1.amazonaws.com/Best+Models.zip) 2.4GB
