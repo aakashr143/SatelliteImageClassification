@@ -1,7 +1,6 @@
-[Demo](https://www.aakashrathee.com/satelliteimageclassification)
-[Deployment Code](https://github.com/aakashr143/SateImageEC2/tree/main)
-
 # Links
+- [Demo](https://www.aakashrathee.com/satelliteimageclassification)
+- [Deployment Code](https://github.com/aakashr143/SateImageEC2/tree/main)
 - [Dataset](https://satellite-image-classification.s3.eu-central-1.amazonaws.com/LandUseImagesDataset.zip) 5.1GB
 - [Best Model of each configuration](https://satellite-image-classification.s3.eu-central-1.amazonaws.com/Best+Models.zip) 2.4GB
 
