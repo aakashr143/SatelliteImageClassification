@@ -1,3 +1,5 @@
+On Mac, if you are unable to uncompress then, change the extension from .zip to .rar. Only experience this with best models.
+
 # Links
 - [Demo](https://www.aakashrathee.com/satelliteimageclassification)
 - [Deployment Code](https://github.com/aakashr143/SateImageEC2/tree/main)
